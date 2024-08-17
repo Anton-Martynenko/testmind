@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anton-Martynenko/testmind/static/css/main.eeadbf45.css",
+    "main.js": "/Anton-Martynenko/testmind/static/js/main.62637232.js",
+    "static/js/453.f3d14fb1.chunk.js": "/Anton-Martynenko/testmind/static/js/453.f3d14fb1.chunk.js",
+    "index.html": "/Anton-Martynenko/testmind/index.html",
+    "main.eeadbf45.css.map": "/Anton-Martynenko/testmind/static/css/main.eeadbf45.css.map",
+    "main.62637232.js.map": "/Anton-Martynenko/testmind/static/js/main.62637232.js.map",
+    "453.f3d14fb1.chunk.js.map": "/Anton-Martynenko/testmind/static/js/453.f3d14fb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeadbf45.css",
+    "static/js/main.62637232.js"
+  ]
+}
